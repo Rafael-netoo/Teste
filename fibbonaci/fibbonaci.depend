@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710207555 source:c:\users\rafae\onedrive\documentos\estudos\teste\fibbonaci\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
